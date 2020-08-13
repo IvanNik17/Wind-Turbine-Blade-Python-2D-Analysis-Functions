@@ -7,7 +7,7 @@ A function for extracting shape data from a captured 2D slices of a wind turbine
 
 Numpy and Scipy are needed for running the code
 
-[image]
+![Screenshot1 identifyBlade](images/identifyBlade.PNG)
 
 # Wind Turbine Blade Interpolate 2D
 
@@ -15,7 +15,7 @@ A simple Python implementation for interpolating missing points in a 2D scan. Th
 
 Numpy is needed for running the code
 
-[image]
+![Screenshot1 interpolate](images/interpolate.PNG)
 
 # Calculate Longest and Shortest Side Of Blade Scan
 
@@ -23,7 +23,7 @@ A code snippet for detecting the orientation, longest and shortest side of a win
 
 Numpy is needed for running the code
 
-[image]
+![Screenshot1 shortLong](images/shortestLongest.PNG)
 
 # Create 3D Point Cloud From 2D Blade Scan
 
@@ -31,7 +31,7 @@ An algorithms for interpolating a 2D scan to a 3D point cloud of a wind turbine 
 
 Numpy and Scipy are needed for running the code
 
-[image]
+![Screenshot1 3dfrom2d](images/3dbladeFrom2d.PNG)
 
 # Joukowski Airfoil Calculator Python
 
@@ -39,4 +39,4 @@ A python implementation of the Joukowski airfoil calculator, using a given chord
 
 Numpy is needed for running the code
 
-[image]
+![Screenshot1 joukowski](images/joukowski.PNG)
