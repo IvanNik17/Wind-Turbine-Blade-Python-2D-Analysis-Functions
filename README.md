@@ -15,7 +15,7 @@ A simple Python implementation for interpolating missing points in a 2D scan. Th
 
 Numpy is needed for running the code
 
-![Screenshot1 interpolate](images/interpolate.PNG)
+![Screenshot1 interpolate](images/interpolate.png)
 
 # Calculate Longest and Shortest Side Of Blade Scan
 
